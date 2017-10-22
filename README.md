@@ -25,3 +25,5 @@ new Calendar(
 )
 ```
 
+## Showcase
+![](https://github.com/theobouwman/flutter_calendar/blob/master/showcase.gif)
