@@ -119,8 +119,9 @@ class _CalendarState extends State<Calendar> {
           bottom: new TabBar(
               isScrollable: true,
               tabs: dates.map((d) {
+                DateTime now = new DateTime.now();
                 return new Tab(
-                  text: _getDateFormat(d),
+                  text: _getDateFormat(d) + ((d.year == now.year && d.month == now.month && d.day == now.day) ? " (TODAY)" : ""),
                 );
               }).toList()),
         ),
