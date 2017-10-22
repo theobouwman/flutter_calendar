@@ -2,7 +2,7 @@ name: calendar
 description: A new flutter package project.
 version: 0.0.1
 author: Theo Bouwman <theobouwman98@gmail.com>
-homepage: 
+homepage: https://github.com/theobouwman/flutter_calendar
 
 dependencies:
   flutter:
