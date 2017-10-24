@@ -1,6 +1,6 @@
 # Calendar package for Flutter
 
-A calendar package for[Flutter](https://flutter.io/)
+A calendar package for [Flutter](https://flutter.io/)
 
 ## Getting Started
 
